@@ -1,4 +1,3 @@
-console.log("Hello world!!!")
 
 console.log(Math.floor(34.56));
 console.log(Math.abs([2]));
